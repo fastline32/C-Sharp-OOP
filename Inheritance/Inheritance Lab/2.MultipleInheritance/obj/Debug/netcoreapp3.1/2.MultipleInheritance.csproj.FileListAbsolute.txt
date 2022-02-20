@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\bin\Debug\netcoreapp3.1\2.MultipleInheritance.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\bin\Debug\netcoreapp3.1\2.MultipleInheritance.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\bin\Debug\netcoreapp3.1\2.MultipleInheritance.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\bin\Debug\netcoreapp3.1\2.MultipleInheritance.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\bin\Debug\netcoreapp3.1\2.MultipleInheritance.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\bin\Debug\netcoreapp3.1\2.MultipleInheritance.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\obj\Debug\netcoreapp3.1\2.MultipleInheritance.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\obj\Debug\netcoreapp3.1\2.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\obj\Debug\netcoreapp3.1\2.MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\obj\Debug\netcoreapp3.1\2.MultipleInheritance.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\obj\Debug\netcoreapp3.1\2.MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\obj\Debug\netcoreapp3.1\2.MultipleInheritance.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\obj\Debug\netcoreapp3.1\2.MultipleInheritance.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Inheritance\Inheritance Lab\2.MultipleInheritance\obj\Debug\netcoreapp3.1\2.MultipleInheritance.genruntimeconfig.cache
