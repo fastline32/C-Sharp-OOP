@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1121414-aa1b-47ee-b264-78f9eca06c41": {
+      "ProjectGuid": "d1121414-aa1b-47ee-b264-78f9eca06c41",
+      "DisplayName": "1.SingleInheritance",
+      "ColorIndex": 0
+    },
+    "41e77c22-c9dc-427c-a60e-2b850b0ecb24": {
+      "ProjectGuid": "41e77c22-c9dc-427c-a60e-2b850b0ecb24",
+      "DisplayName": "2.MultipleInheritance",
+      "ColorIndex": 1
+    },
+    "cc95e042-b748-4e69-824e-2f5956a13676": {
+      "ProjectGuid": "cc95e042-b748-4e69-824e-2f5956a13676",
+      "DisplayName": "3.HierarchicalInheritance",
+      "ColorIndex": 2
+    },
+    "80efc8f3-6f6a-4c48-a4bd-4931a97d5524": {
+      "ProjectGuid": "80efc8f3-6f6a-4c48-a4bd-4931a97d5524",
+      "DisplayName": "4.RandomList",
+      "ColorIndex": 3
+    },
+    "aeaadf60-b83a-4d5b-a80c-93515e110fe7": {
+      "ProjectGuid": "aeaadf60-b83a-4d5b-a80c-93515e110fe7",
+      "DisplayName": "5.StackOfStrings",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
