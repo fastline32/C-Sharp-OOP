@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Lab\\HierarchicalInheritance\\3.HierarchicalInheritance.csproj",
-      "projectName": "3.HierarchicalInheritance",
-      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Lab\\HierarchicalInheritance\\3.HierarchicalInheritance.csproj",
+      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Lab\\5.StackOfStrings\\5.StackOfStrings.csproj",
+      "projectName": "5.StackOfStrings",
+      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Lab\\5.StackOfStrings\\5.StackOfStrings.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Lab\\HierarchicalInheritance\\obj\\",
+      "outputPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Lab\\5.StackOfStrings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
