@@ -4,9 +4,9 @@ namespace Restaurant
 {
     public class StartUp
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
