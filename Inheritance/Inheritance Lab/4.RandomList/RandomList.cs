@@ -18,10 +18,12 @@ namespace CustomRandomList
             return this[index];
         }
 
-        public void RemoveRandomElement()
+        public string RemoveRandomElement()
         {
             int index = random.Next(0, Count);
+            string value = this[index];
             RemoveAt(index);
+            return value;
         }
     }
 }
