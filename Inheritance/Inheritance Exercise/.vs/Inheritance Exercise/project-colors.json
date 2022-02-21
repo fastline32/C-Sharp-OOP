@@ -20,7 +20,12 @@
       "ProjectGuid": "e633ebfe-5171-4480-803c-afe416522ae4",
       "DisplayName": "4. Need for Speed",
       "ColorIndex": 3
+    },
+    "2145590d-6269-47cd-8fdf-5eab836b8d7c": {
+      "ProjectGuid": "2145590d-6269-47cd-8fdf-5eab836b8d7c",
+      "DisplayName": "5. Restaurant",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
