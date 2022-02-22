@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\6. Animals\\6. Animals.csproj",
-      "projectName": "6. Animals",
-      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\6. Animals\\6. Animals.csproj",
+      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\6. Animals\\Animals.csproj",
+      "projectName": "Animals",
+      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\6. Animals\\Animals.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\6. Animals\\obj\\",
       "projectStyle": "PackageReference",

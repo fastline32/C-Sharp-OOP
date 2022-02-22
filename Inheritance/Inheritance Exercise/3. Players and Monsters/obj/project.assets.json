@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\3. Players and Monsters\\3. Players and Monsters.csproj",
-      "projectName": "3. Players and Monsters",
-      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\3. Players and Monsters\\3. Players and Monsters.csproj",
+      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\3. Players and Monsters\\PlayersAndMonsters.csproj",
+      "projectName": "PlayersAndMonsters",
+      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\3. Players and Monsters\\PlayersAndMonsters.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\3. Players and Monsters\\obj\\",
       "projectStyle": "PackageReference",

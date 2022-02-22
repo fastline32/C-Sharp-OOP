@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Person", "1. Person\1. Person.csproj", "{C8D7D2BC-58EC-4287-BE65-43B941D36AC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Person", "1. Person\Person.csproj", "{C8D7D2BC-58EC-4287-BE65-43B941D36AC9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Zoo", "2. Zoo\2. Zoo.csproj", "{1E73E4C6-0B4F-403E-B0E6-D0CA828F276C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoo", "2. Zoo\Zoo.csproj", "{1E73E4C6-0B4F-403E-B0E6-D0CA828F276C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Players and Monsters", "3. Players and Monsters\3. Players and Monsters.csproj", "{CE47C9CE-EBAB-42DC-B579-44705CBF151C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayersAndMonsters", "3. Players and Monsters\PlayersAndMonsters.csproj", "{CE47C9CE-EBAB-42DC-B579-44705CBF151C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Need for Speed", "4. Need for Speed\4. Need for Speed.csproj", "{E633EBFE-5171-4480-803C-AFE416522AE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeedForSpeed", "4. Need for Speed\NeedForSpeed.csproj", "{E633EBFE-5171-4480-803C-AFE416522AE4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Restaurant", "5. Restaurant\5. Restaurant.csproj", "{2145590D-6269-47CD-8FDF-5EAB836B8D7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurant", "5. Restaurant\Restaurant.csproj", "{2145590D-6269-47CD-8FDF-5EAB836B8D7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Animals", "6. Animals\6. Animals.csproj", "{B11CB96E-8C7C-4B49-935A-4238781E6F56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals", "6. Animals\Animals.csproj", "{B11CB96E-8C7C-4B49-935A-4238781E6F56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

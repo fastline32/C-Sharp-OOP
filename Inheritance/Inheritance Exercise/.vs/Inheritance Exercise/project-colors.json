@@ -25,7 +25,12 @@
       "ProjectGuid": "2145590d-6269-47cd-8fdf-5eab836b8d7c",
       "DisplayName": "5. Restaurant",
       "ColorIndex": 4
+    },
+    "b11cb96e-8c7c-4b49-935a-4238781e6f56": {
+      "ProjectGuid": "b11cb96e-8c7c-4b49-935a-4238781e6f56",
+      "DisplayName": "6. Animals",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

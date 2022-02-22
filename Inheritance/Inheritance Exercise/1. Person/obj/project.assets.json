@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\1. Person\\1. Person.csproj",
-      "projectName": "1. Person",
-      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\1. Person\\1. Person.csproj",
+      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\1. Person\\Person.csproj",
+      "projectName": "Person",
+      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\1. Person\\Person.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\1. Person\\obj\\",
       "projectStyle": "PackageReference",

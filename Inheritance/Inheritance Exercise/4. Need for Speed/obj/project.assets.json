@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\4. Need for Speed\\4. Need for Speed.csproj",
-      "projectName": "4. Need for Speed",
-      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\4. Need for Speed\\4. Need for Speed.csproj",
+      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\4. Need for Speed\\NeedForSpeed.csproj",
+      "projectName": "NeedForSpeed",
+      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\4. Need for Speed\\NeedForSpeed.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\4. Need for Speed\\obj\\",
       "projectStyle": "PackageReference",

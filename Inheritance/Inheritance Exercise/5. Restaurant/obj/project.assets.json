@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\5. Restaurant\\5. Restaurant.csproj",
-      "projectName": "5. Restaurant",
-      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\5. Restaurant\\5. Restaurant.csproj",
+      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\5. Restaurant\\Restaurant.csproj",
+      "projectName": "Restaurant",
+      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\5. Restaurant\\Restaurant.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-OOP\\Inheritance\\Inheritance Exercise\\5. Restaurant\\obj\\",
       "projectStyle": "PackageReference",
