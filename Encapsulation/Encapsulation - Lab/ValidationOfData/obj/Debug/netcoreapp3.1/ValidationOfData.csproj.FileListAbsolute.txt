@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.genruntimeconfig.cache

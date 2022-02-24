@@ -3,32 +3,32 @@
   "ProjectMap": {
     "c8d7d2bc-58ec-4287-be65-43b941d36ac9": {
       "ProjectGuid": "c8d7d2bc-58ec-4287-be65-43b941d36ac9",
-      "DisplayName": "1. Person",
+      "DisplayName": "Person",
       "ColorIndex": 0
     },
     "1e73e4c6-0b4f-403e-b0e6-d0ca828f276c": {
       "ProjectGuid": "1e73e4c6-0b4f-403e-b0e6-d0ca828f276c",
-      "DisplayName": "2. Zoo",
+      "DisplayName": "Zoo",
       "ColorIndex": 1
     },
     "ce47c9ce-ebab-42dc-b579-44705cbf151c": {
       "ProjectGuid": "ce47c9ce-ebab-42dc-b579-44705cbf151c",
-      "DisplayName": "3. Players and Monsters",
+      "DisplayName": "PlayersAndMonsters",
       "ColorIndex": 2
     },
     "e633ebfe-5171-4480-803c-afe416522ae4": {
       "ProjectGuid": "e633ebfe-5171-4480-803c-afe416522ae4",
-      "DisplayName": "4. Need for Speed",
+      "DisplayName": "NeedForSpeed",
       "ColorIndex": 3
     },
     "2145590d-6269-47cd-8fdf-5eab836b8d7c": {
       "ProjectGuid": "2145590d-6269-47cd-8fdf-5eab836b8d7c",
-      "DisplayName": "5. Restaurant",
+      "DisplayName": "Restaurant",
       "ColorIndex": 4
     },
     "b11cb96e-8c7c-4b49-935a-4238781e6f56": {
       "ProjectGuid": "b11cb96e-8c7c-4b49-935a-4238781e6f56",
-      "DisplayName": "6. Animals",
+      "DisplayName": "Animals",
       "ColorIndex": 5
     }
   },

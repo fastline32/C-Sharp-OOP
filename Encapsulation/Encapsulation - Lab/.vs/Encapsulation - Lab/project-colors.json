@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d38379c9-18d8-43a9-913a-c1ebeda6e7fa": {
+      "ProjectGuid": "d38379c9-18d8-43a9-913a-c1ebeda6e7fa",
+      "DisplayName": "SortPersonsByNameAndAge",
+      "ColorIndex": 0
+    },
+    "2ec3333f-c032-4865-8a66-bcfb0a1d7888": {
+      "ProjectGuid": "2ec3333f-c032-4865-8a66-bcfb0a1d7888",
+      "DisplayName": "SalaryIncrease",
+      "ColorIndex": 1
+    },
+    "1b1123ad-a6bc-4f5f-8ede-f95455e17051": {
+      "ProjectGuid": "1b1123ad-a6bc-4f5f-8ede-f95455e17051",
+      "DisplayName": "ValidationOfData",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
