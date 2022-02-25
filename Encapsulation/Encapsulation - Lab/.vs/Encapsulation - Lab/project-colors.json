@@ -15,7 +15,12 @@
       "ProjectGuid": "1b1123ad-a6bc-4f5f-8ede-f95455e17051",
       "DisplayName": "ValidationOfData",
       "ColorIndex": 2
+    },
+    "2f69216c-7ab8-4e84-8023-ed406dad49bb": {
+      "ProjectGuid": "2f69216c-7ab8-4e84-8023-ed406dad49bb",
+      "DisplayName": "FirstAndReserveTeam",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

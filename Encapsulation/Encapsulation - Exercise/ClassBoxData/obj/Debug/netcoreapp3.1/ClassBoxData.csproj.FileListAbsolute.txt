@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache
