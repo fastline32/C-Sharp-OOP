@@ -10,6 +10,7 @@ namespace ShoppingSpree
         public Product(string name,double cost)
         {
             Name = name;
+            Cost = cost;
         }
 
         public string Name

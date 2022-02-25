@@ -38,8 +38,11 @@ namespace ShoppingSpree
             }
         }
 
-        public IReadOnlyCollection<Product> Products { get { return products; } }
+        public List<Product> Products { get { return products; } }
 
-
+        public void BuyProduct(Product product)
+        {
+            this.products.Add(product);
+        }
     }
 }
