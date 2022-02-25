@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.genruntimeconfig.cache
