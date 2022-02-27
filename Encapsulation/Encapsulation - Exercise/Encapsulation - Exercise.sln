@@ -5,7 +5,11 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassBoxData", "ClassBoxData\ClassBoxData.csproj", "{A63F97CA-97CC-401A-8C84-4A39D5FB38D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingSpree", "ShoppingSpree\ShoppingSpree.csproj", "{DE27F715-89D3-4493-9629-C118902EF287}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingSpree", "ShoppingSpree\ShoppingSpree.csproj", "{DE27F715-89D3-4493-9629-C118902EF287}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaCalories", "PizzaCalories\PizzaCalories.csproj", "{FF9B69E2-A11C-4B12-B703-397552D2158F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballTeamGenerator", "FootballTeamGenerator\FootballTeamGenerator.csproj", "{9FAF7A57-4EBB-441B-885E-AE94759A254C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{DE27F715-89D3-4493-9629-C118902EF287}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE27F715-89D3-4493-9629-C118902EF287}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE27F715-89D3-4493-9629-C118902EF287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9B69E2-A11C-4B12-B703-397552D2158F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9B69E2-A11C-4B12-B703-397552D2158F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9B69E2-A11C-4B12-B703-397552D2158F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9B69E2-A11C-4B12-B703-397552D2158F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FAF7A57-4EBB-441B-885E-AE94759A254C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAF7A57-4EBB-441B-885E-AE94759A254C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAF7A57-4EBB-441B-885E-AE94759A254C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAF7A57-4EBB-441B-885E-AE94759A254C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

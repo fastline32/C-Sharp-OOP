@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Encapsulation\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.genruntimeconfig.cache

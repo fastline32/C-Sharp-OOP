@@ -16,10 +16,10 @@ namespace ShoppingSpree
             products = new List<Product>();
         }
 
-        public string Name { get { return this.name;}
+        public string Name { get => this.name;
             set
             {
-                if (string.IsNullOrEmpty(value))
+                if (string.IsNullOrEmpty(value) || value == " ")
                 {
                     throw new ArgumentException("Name cannot be empty");
                 }
@@ -27,7 +27,7 @@ namespace ShoppingSpree
             }
 
         } 
-        public double Money { get { return this.money; }
+        public double Money { get => this.money; 
             set
             {
                 if (value < 0)
@@ -38,11 +38,8 @@ namespace ShoppingSpree
             }
         }
 
-        public List<Product> Products { get { return products; } }
+        public List<Product> Products { get => products; }
 
-        public void BuyProduct(Product product)
-        {
-            this.products.Add(product);
-        }
+        public void BuyProduct(Product product) => this.products.Add(product);
     }
 }

@@ -15,9 +15,9 @@ namespace ShoppingSpree
 
         public string Name
         {
-            get { return this.name;}
+            get => this.name;
             set {
-                if (string.IsNullOrEmpty(value))
+                if (string.IsNullOrEmpty(value) || value == " ")
                 {
                     throw new ArgumentException("Name cannot be empty");
                 }
@@ -28,14 +28,14 @@ namespace ShoppingSpree
 
         public double Cost
         {
-            get => cost;
+            get => this.cost;
             set
             {
                 if (value < 0)
                 {
                     throw new ArgumentException("Money cannot be negative");
                 }
-                cost = value;
+                this.cost = value;
             }
         }
     }
