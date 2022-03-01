@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.1\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

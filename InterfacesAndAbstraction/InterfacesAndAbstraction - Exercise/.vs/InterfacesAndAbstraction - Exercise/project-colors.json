@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7408b5a-5283-4503-a3e6-115e88d6e006": {
+      "ProjectGuid": "c7408b5a-5283-4503-a3e6-115e88d6e006",
+      "DisplayName": "DefineAnInterfaceIPerson",
+      "ColorIndex": 0
+    },
+    "0dac2adb-b100-4d03-8185-079a8f1b68e3": {
+      "ProjectGuid": "0dac2adb-b100-4d03-8185-079a8f1b68e3",
+      "DisplayName": "MultipleImplementation",
+      "ColorIndex": 1
+    },
+    "43d12207-8d3e-4538-8bcd-523eb2c45c01": {
+      "ProjectGuid": "43d12207-8d3e-4538-8bcd-523eb2c45c01",
+      "DisplayName": "Telephony",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

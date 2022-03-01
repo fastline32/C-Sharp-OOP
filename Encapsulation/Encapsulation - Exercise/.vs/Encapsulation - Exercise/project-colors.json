@@ -5,7 +5,22 @@
       "ProjectGuid": "a63f97ca-97cc-401a-8c84-4a39d5fb38d0",
       "DisplayName": "ClassBoxData",
       "ColorIndex": 0
+    },
+    "ff9b69e2-a11c-4b12-b703-397552d2158f": {
+      "ProjectGuid": "ff9b69e2-a11c-4b12-b703-397552d2158f",
+      "DisplayName": "PizzaCalories",
+      "ColorIndex": 1
+    },
+    "de27f715-89d3-4493-9629-c118902ef287": {
+      "ProjectGuid": "de27f715-89d3-4493-9629-c118902ef287",
+      "DisplayName": "ShoppingSpree",
+      "ColorIndex": 2
+    },
+    "9faf7a57-4ebb-441b-885e-ae94759a254c": {
+      "ProjectGuid": "9faf7a57-4ebb-441b-885e-ae94759a254c",
+      "DisplayName": "FootballTeamGenerator",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
