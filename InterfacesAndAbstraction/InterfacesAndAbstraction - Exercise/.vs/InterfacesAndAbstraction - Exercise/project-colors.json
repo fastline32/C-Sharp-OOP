@@ -30,7 +30,12 @@
       "ProjectGuid": "36c6846a-ccb8-4267-b644-2915aba32714",
       "DisplayName": "BirthdayCelebrations",
       "ColorIndex": 5
+    },
+    "d96a3959-3801-47f0-a7e9-3310a6f82b20": {
+      "ProjectGuid": "d96a3959-3801-47f0-a7e9-3310a6f82b20",
+      "DisplayName": "FoodShortage",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
