@@ -2,6 +2,6 @@
 {
     public interface IBrowse
     {
-        public void Browsing(string url);
+        public string Browsing(string url);
     }
 }

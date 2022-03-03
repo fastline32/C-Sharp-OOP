@@ -5,28 +5,23 @@ namespace Telephony
 {
     public class Smartphone : ICall,IBrowse
     {
-        public void Call(string number)
+        public string Call(string number)
         {
-            if (number.All(Char.IsDigit))
+            if (!number.All(c => Char.IsDigit(c)))
             {
-                Console.WriteLine($"Calling... {number}");
+                throw new ArgumentException("Invalid number!");
             }
-            else
-            {
-                Console.WriteLine("Invalid number!");
-            }
+
+            return number.Length > 7 ? $"Calling... {number}" : $"Dialing... {number}";
         }
 
-        public void Browsing(string url)
+        public string Browsing(string url)
         {
-            if (url.Any(Char.IsDigit))
+            if (url.Any(c => Char.IsDigit(c)))
             {
-                Console.WriteLine("Invalid URL!");
+                throw new ArgumentException("Invalid URL!");
             }
-            else
-            {
-                Console.WriteLine("Browsing: {0}!",url);
-            }
+            return $"Browsing: {url}!";
         }
     }
 }

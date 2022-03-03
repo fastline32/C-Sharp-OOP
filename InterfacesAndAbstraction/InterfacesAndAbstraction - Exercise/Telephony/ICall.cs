@@ -1,7 +1,9 @@
-﻿namespace Telephony
+﻿using System.Text;
+
+namespace Telephony
 {
     public interface ICall
     {
-        public void Call(string number);
+        public string Call(string number);
     }
 }
