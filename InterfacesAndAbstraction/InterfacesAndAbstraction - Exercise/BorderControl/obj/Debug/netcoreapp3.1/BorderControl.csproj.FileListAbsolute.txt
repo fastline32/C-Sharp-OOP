@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

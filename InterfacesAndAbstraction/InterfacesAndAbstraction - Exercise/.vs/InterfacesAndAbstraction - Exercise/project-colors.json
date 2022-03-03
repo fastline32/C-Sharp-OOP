@@ -15,7 +15,22 @@
       "ProjectGuid": "43d12207-8d3e-4538-8bcd-523eb2c45c01",
       "DisplayName": "Telephony",
       "ColorIndex": 2
+    },
+    "8981d013-9602-40bc-bee9-db5f23c4e314": {
+      "ProjectGuid": "8981d013-9602-40bc-bee9-db5f23c4e314",
+      "DisplayName": "MilitaryElite",
+      "ColorIndex": 3
+    },
+    "e00e001b-1b91-4283-b896-232335aba97b": {
+      "ProjectGuid": "e00e001b-1b91-4283-b896-232335aba97b",
+      "DisplayName": "BorderControl",
+      "ColorIndex": 4
+    },
+    "36c6846a-ccb8-4267-b644-2915aba32714": {
+      "ProjectGuid": "36c6846a-ccb8-4267-b644-2915aba32714",
+      "DisplayName": "BirthdayCelebrations",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }
