@@ -8,48 +8,48 @@ namespace FoodShortage.Core
 {
     public class Engine
     {
-        private IList<IIdent> idents;
-        private List<IIdent> birthdays;
+        private Dictionary<string, IBuyer> BuyerList;
 
         public Engine()
         {
-            this.idents = new List<IIdent>();
-            this.birthdays = new List<IIdent>();
+            BuyerList = new Dictionary<string, IBuyer>();
         }
 
         public void Run()
         {
-            string command = Console.ReadLine();
-            while (command != "End")
+            int command = int.Parse(Console.ReadLine()!);
+            for (int i = 0; i < command; i++)
             {
-                string[] inputData = command.Split();
-                if (inputData[0] == "Robot")
+                string[] inputInfo = Console.ReadLine()!.Split();
+                if (inputInfo.Length == 3)
                 {
-                    command = Console.ReadLine();
-                    continue;
+                    Rebel rebel = new Rebel(inputInfo[0], int.Parse(inputInfo[1]), inputInfo[2]);
+                    BuyerList.Add(inputInfo[0],rebel);
                 }
-                if(inputData[0] == "Citizen")
+                else if (inputInfo.Length == 4)
                 {
-                    Citizen citizen = new Citizen(inputData[1], int.Parse(inputData[2]), inputData[3], inputData[4]);
-                    idents.Add(citizen);
+                    Citizen citizen = new Citizen(inputInfo[0], int.Parse(inputInfo[1]), inputInfo[2], inputInfo[3]);
+                    BuyerList.Add(inputInfo[0],citizen);
                 }
-                else if(inputData[0] == "Pet")
-                {
-                    Pet pet = new Pet(inputData[1], inputData[2]);
-                    idents.Add(pet);
-                }
+            }
 
-                command = Console.ReadLine();
-            }
-            string forCheck = Console.ReadLine();
-            this.birthdays = idents.Where(x => x.Birthday.EndsWith(forCheck)).ToList();
-            if (this.birthdays.Count != 0)
+            string line = Console.ReadLine();
+            while (line != "End")
             {
-                foreach (var ident in birthdays)
+                if (BuyerList.ContainsKey(line))
                 {
-                    Console.WriteLine(ident.Birthday);
+                    BuyerList[line].BuyFood();
                 }
+                line = Console.ReadLine();
             }
+
+            int sum = 0;
+            foreach (var buyer in BuyerList)
+            {
+                sum += buyer.Value.Food;
+            }
+
+            Console.WriteLine(sum);
         }
     }
 }

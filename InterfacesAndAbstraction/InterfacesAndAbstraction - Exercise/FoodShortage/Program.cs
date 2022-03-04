@@ -1,4 +1,4 @@
-﻿using System;
+﻿using FoodShortage.Core;
 
 namespace FoodShortage
 {
@@ -6,7 +6,8 @@ namespace FoodShortage
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Engine engine = new Engine();
+            engine.Run();
         }
     }
 }
