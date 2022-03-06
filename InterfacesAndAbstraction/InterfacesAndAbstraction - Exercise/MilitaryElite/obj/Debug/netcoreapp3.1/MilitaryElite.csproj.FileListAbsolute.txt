@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\InterfacesAndAbstraction\InterfacesAndAbstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache

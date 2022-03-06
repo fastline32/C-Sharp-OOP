@@ -6,7 +6,7 @@ namespace MilitaryElite
 {
     public enum Status
     {
-        inProgres,
+        inProgress,
         Finished
     }
 }

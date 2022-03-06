@@ -11,5 +11,10 @@ namespace MilitaryElite.Implementations
         }
 
         public decimal Salary { get; set; }
+
+        public override string ToString()
+        {
+            return $"Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:F2}";
+        }
     }
 }

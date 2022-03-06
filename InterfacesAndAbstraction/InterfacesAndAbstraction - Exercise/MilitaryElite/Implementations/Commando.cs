@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using MilitaryElite.Interfaces;
 
 namespace MilitaryElite.Implementations
@@ -17,6 +18,19 @@ namespace MilitaryElite.Implementations
         {
             var mission = Missions.FirstOrDefault(x => x.CodeName == codeName);
             mission.Status = Status.Finished;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:F2}");
+            sb.AppendLine($"Corps: {Corps}");
+            sb.AppendLine("Missions:");
+            foreach (var mission in Missions)
+            {
+                sb.AppendLine($"  {mission.ToString()}");
+            }
+            return sb.ToString().TrimEnd();
         }
     }
 }

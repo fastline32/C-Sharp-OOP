@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Text;
 using MilitaryElite.Interfaces;
 
 namespace MilitaryElite.Implementations
@@ -12,5 +13,17 @@ namespace MilitaryElite.Implementations
         }
 
         public ICollection<IPrivate> Privates { get; set; }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:F2}");
+            sb.AppendLine("Privates:");
+            foreach (var item in Privates)
+            {
+                sb.AppendLine($"  {item.ToString()}");
+            }
+            return sb.ToString().TrimEnd();
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿using MilitaryElite.Interfaces;
+﻿using System.Text;
+using MilitaryElite.Interfaces;
 
 namespace MilitaryElite.Implementations
 {
@@ -11,5 +12,13 @@ namespace MilitaryElite.Implementations
         }
 
         public string CodeNumber { get; set; }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Name: {FirstName} {LastName} Id: {Id}");
+            sb.AppendLine($"Code Number: {CodeNumber}");
+            return sb.ToString().TrimEnd();
+        }
     }
 }

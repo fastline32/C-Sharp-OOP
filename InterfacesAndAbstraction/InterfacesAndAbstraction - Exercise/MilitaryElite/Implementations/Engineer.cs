@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Text;
 using MilitaryElite.Interfaces;
 
 namespace MilitaryElite.Implementations
@@ -12,5 +13,18 @@ namespace MilitaryElite.Implementations
         }
 
         public List<IRepair> Repairs { get; set; }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:F2}");
+            sb.AppendLine($"Corps: {Corps}");
+            sb.AppendLine("Repairs:");
+            foreach (var repair in Repairs)
+            {
+                sb.AppendLine($"  {repair.ToString()}");
+            }
+            return sb.ToString().TrimEnd();
+        }
     }
 }
