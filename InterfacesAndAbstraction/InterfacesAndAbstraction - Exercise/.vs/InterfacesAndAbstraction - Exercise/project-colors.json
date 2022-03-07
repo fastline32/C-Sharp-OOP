@@ -35,7 +35,17 @@
       "ProjectGuid": "d96a3959-3801-47f0-a7e9-3310a6f82b20",
       "DisplayName": "FoodShortage",
       "ColorIndex": 6
+    },
+    "f7766f56-5e18-487f-95f4-29209635c85c": {
+      "ProjectGuid": "f7766f56-5e18-487f-95f4-29209635c85c",
+      "DisplayName": "CollectionHierarchy",
+      "ColorIndex": 7
+    },
+    "a583bf90-3c8b-46b9-91f7-709e9e4c2a37": {
+      "ProjectGuid": "a583bf90-3c8b-46b9-91f7-709e9e4c2a37",
+      "DisplayName": "ExplicitInterfaces",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 9
 }
