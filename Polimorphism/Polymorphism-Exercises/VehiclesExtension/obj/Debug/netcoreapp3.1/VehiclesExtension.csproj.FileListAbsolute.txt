@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.genruntimeconfig.cache

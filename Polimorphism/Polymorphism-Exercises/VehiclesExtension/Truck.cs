@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace Vehicles
+namespace VehiclesExtension
 {
     public class Truck : Vehicle
     {
         private const double litre = 1.6;
 
-        public Truck(double fuelQuantity, double fuelConsumption)
-            : base(fuelQuantity, fuelConsumption)
+        public Truck(double fuelQuantity, double fuelConsumption, double tankCapacity)
+            : base(fuelQuantity, fuelConsumption,tankCapacity)
         {
         }
 
@@ -27,7 +27,21 @@ namespace Vehicles
 
         public override void Refuel(double fuel)
         {
-            FuelQuantity += (fuel / 100) * 95;
+            if (fuel < 1)
+            {
+                Console.WriteLine("Fuel must be a positive number");
+            }
+            else
+            {
+                if (fuel > TankCapacity)
+                {
+                    Console.WriteLine($"Cannot fit {fuel} fuel in the tank");
+                }
+                else
+                {
+                    FuelQuantity += fuel*0.95;
+                }
+            }
         }
     }
 }
