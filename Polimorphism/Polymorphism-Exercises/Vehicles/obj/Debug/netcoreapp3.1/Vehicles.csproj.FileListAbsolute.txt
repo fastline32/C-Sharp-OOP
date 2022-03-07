@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

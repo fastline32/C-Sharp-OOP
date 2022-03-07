@@ -5,7 +5,17 @@
       "ProjectGuid": "d2f64eec-0ab4-47af-a3b3-7d7ea3a33123",
       "DisplayName": "MathOperation",
       "ColorIndex": 0
+    },
+    "ebcd3e55-87cb-4ffd-982d-122eb33fc5ed": {
+      "ProjectGuid": "ebcd3e55-87cb-4ffd-982d-122eb33fc5ed",
+      "DisplayName": "Animals",
+      "ColorIndex": 1
+    },
+    "e429b4a8-37ac-4bda-8067-7c293fc91b33": {
+      "ProjectGuid": "e429b4a8-37ac-4bda-8067-7c293fc91b33",
+      "DisplayName": "Shapes",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
