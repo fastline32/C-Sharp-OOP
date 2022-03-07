@@ -33,7 +33,7 @@ namespace VehiclesExtension
             }
             else
             {
-                if (fuel > TankCapacity)
+                if (FuelQuantity + fuel > TankCapacity)
                 {
                     Console.WriteLine($"Cannot fit {fuel} fuel in the tank");
                 }

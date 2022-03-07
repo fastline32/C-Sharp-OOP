@@ -27,7 +27,7 @@ namespace VehiclesExtension
 
         public void DriveEmpty(double distance)
         {
-            double totalFuelNeeded = distance * (FuelConsumption + litre);
+            double totalFuelNeeded = distance * (FuelConsumption);
             if (totalFuelNeeded <= FuelQuantity)
             {
                 FuelQuantity -= totalFuelNeeded;
@@ -48,7 +48,7 @@ namespace VehiclesExtension
             }
             else
             {
-                if (fuel > TankCapacity)
+                if (FuelQuantity + fuel > TankCapacity)
                 {
                     Console.WriteLine($"Cannot fit {fuel} fuel in the tank");
                 }
