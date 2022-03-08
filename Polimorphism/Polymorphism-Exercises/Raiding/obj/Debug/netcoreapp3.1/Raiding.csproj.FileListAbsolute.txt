@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-OOP\Polimorphism\Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache
