@@ -10,5 +10,7 @@ namespace WildFarm
             WingSize = wingSize;
         }
         public double WingSize { get; }
+
+        public override string ToString() => $"{this.GetType().Name} [{this.Name}, {this.WingSize}, {this.Weight}, {this.FoodEaten}]";
     }
 }

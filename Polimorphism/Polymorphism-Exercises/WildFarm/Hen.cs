@@ -7,6 +7,13 @@
         {
         }
 
-        public override string ToString() => "Cluck";
+
+        public override string ProduceSound() => "Cluck";
+
+        public override void Eat(IFood food)
+        {
+            this.FoodEaten += food.Quantity;
+            this.Weight += food.Quantity * 0.35;
+        }
     }
 }

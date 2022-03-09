@@ -1,4 +1,6 @@
-﻿namespace WildFarm
+﻿using System;
+
+namespace WildFarm
 {
     public class Tiger : Feline
     {
@@ -7,6 +9,17 @@
         {
         }
 
-        public override string ToString() => "ROAR!!!";
+        public override string ProduceSound() => "ROAR!!!";
+
+        public override void Eat(IFood food)
+        {
+            if (food.GetType().Name != "Meat")
+            {
+                throw new InvalidOperationException($"{this.GetType().Name} does not eat {food.GetType().Name}!");
+            }
+
+            this.FoodEaten += food.Quantity;
+            this.Weight += food.Quantity;
+        }
     }
 }
